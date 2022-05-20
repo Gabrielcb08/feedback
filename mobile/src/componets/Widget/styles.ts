@@ -13,6 +13,6 @@ export const styles = StyleSheet.create({
     
     position: 'absolute',
     right : 16,
-    button: getBottomSpace() + 16,
+    bottom: getBottomSpace() + 16,
   }
 });

@@ -11,11 +11,11 @@ export function Widget() {
         <TouchableOpacity
           style={styles.button}
         >
-        <ChatTeardropDots 
-          size={24}
-          weight="bold"
-          color={theme.colors.text_on_brand_color}
-        />            
+          <ChatTeardropDots 
+            size={24}
+            weight="bold"
+            color={theme.colors.text_on_brand_color}
+          />            
         </TouchableOpacity>
     </>
   );
